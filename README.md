@@ -1,7 +1,8 @@
 # LED-Pixel-Art
 A simple Python program that pulls out RGB values from a 10 x 10 pxel JPEG image and then writes them to an LED display.
 
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'O4O31OGEX');kofiwidget2.draw();</script> 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O31OGEX)
+
 ![](images/LEDs.png)
 
 I built a 10 x 10 LED board then used Python to display JPEGSs in real time.  The LEDs are GRB so the program code has to covert them into the 
