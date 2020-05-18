@@ -14,7 +14,7 @@ Install libs:
 
 More build details here: https://www.tecoed.co.uk/led-board.html
 
-Youtube - 
+YouTube - https://www.youtube.com/watch?v=IQs2gBY1vNs&feature=youtu.be
 
 Hackster.io 
 
