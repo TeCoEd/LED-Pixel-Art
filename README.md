@@ -6,8 +6,9 @@ A simple Python program that pulls out RGB values from a 10 x 10 pxel JPEG image
 I built a 10 x 10 LED board then used Python to display JPEGSs in real time.  The LEDs are GRB so the program code has to covert them into the 
 correct RGB order first.
 
-Install mpg123 
-* sudo apt-get install -y mpg123
+Install libs:
+* sudo pip3 install pil (pre installed on Pi)
+* curl -sS https://get.pimoroni.com/unicornhat | bash (
 
 More build details here: https://www.tecoed.co.uk/tardis.html
 
