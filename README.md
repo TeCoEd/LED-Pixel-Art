@@ -8,7 +8,7 @@ correct RGB order first.
 
 Install libs:
 * sudo pip3 install pil (pre installed on Pi)
-* curl -sS https://get.pimoroni.com/unicornhat | bash (
+* curl -sS https://get.pimoroni.com/unicornhat | bash 
 
 More build details here: https://www.tecoed.co.uk/tardis.html
 
